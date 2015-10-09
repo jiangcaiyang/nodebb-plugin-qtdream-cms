@@ -1,6 +1,6 @@
 {
-  "id": "nodebb-plugin-null",
-  "url": "您插件的地址或者 Github 代码库",
+  "id": "nodebb-plugin-route-cms",
+  "url": "https://github.com/jiangcaiyang/nodebb-plugin-route-cms",
   "library": "./index.js",
   "staticDirs":
   {

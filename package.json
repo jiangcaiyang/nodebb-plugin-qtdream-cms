@@ -1,7 +1,7 @@
 {
-  "name": "nodebb-plugin-null",
+  "name": "nodebb-plugin-route-cms",
   "version": "0.0.1",
-  "description": "测试的插件",
+  "description": "Note: This repository is dedicated to http://qtdream.com:1111, and is not guaranteed to suit all systems, even if it is successfully installed.",
   "main": "index.js",
   "scripts": {
   },
@@ -15,7 +15,7 @@
   "repository":
   {
     "type": "git",
-    "url": ""
+    "url": "git+https://github.com/jiangcaiyang/nodebb-plugin-route-cms"
   },
   "readme": "README.md"
 }
