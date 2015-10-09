@@ -1,0 +1,21 @@
+{
+  "name": "nodebb-plugin-null",
+  "version": "0.0.1",
+  "description": "测试的插件",
+  "main": "index.js",
+  "scripts": {
+  },
+  "keywords": [
+    "nodebb",
+    "plugin",
+    "null"
+  ],
+  "author": "jiangcaiyang",
+  "license": "MIT",
+  "repository":
+  {
+    "type": "git",
+    "url": ""
+  },
+  "readme": "README.md"
+}

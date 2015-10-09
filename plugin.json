@@ -1,0 +1,26 @@
+{
+  "id": "nodebb-plugin-null",
+  "url": "您插件的地址或者 Github 代码库",
+  "library": "./index.js",
+  "staticDirs":
+  {
+  },
+  "less":
+  [
+  ],
+  "scripts":
+  [
+  ],
+  "staticDirs":
+  {
+    "styles": "public/styles",
+    "js": "public/js"
+  },
+  "languages": "public/languages",
+  "defaultLang": "zh_CN",
+  "templates": "",
+  "hooks":
+  [
+    { "hook": "static:app.load", "method": "onLoad" }
+  ]
+}
