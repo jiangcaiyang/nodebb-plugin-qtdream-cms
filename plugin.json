@@ -1,26 +1,31 @@
 {
   "id": "nodebb-plugin-route-cms",
   "url": "https://github.com/jiangcaiyang/nodebb-plugin-route-cms",
-  "library": "./index.js",
-  "staticDirs":
-  {
-  },
+  "library": "library.js",
   "less":
   [
   ],
   "scripts":
   [
+      "public/assets/js/headroom.min.js",
+      "public/assets/js/jQuery.headroom.min.js",
+      "public/assets/js/template.js"
   ],
   "staticDirs":
   {
-    "styles": "public/styles",
-    "js": "public/js"
+      "assets": "public/assets",
+      "controllers": "public/controllers",
+      "routes": "public/routes",
+      "services": "public/services"
   },
   "languages": "public/languages",
   "defaultLang": "zh_CN",
-  "templates": "",
+  "templates": "server/views",
   "hooks":
   [
-    { "hook": "static:app.load", "method": "onLoad" }
+      {
+          "hook": "static:app.load",
+          "method": "onLoad"
+      }
   ]
 }
