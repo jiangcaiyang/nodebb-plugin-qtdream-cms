@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport"    content="width=device-width, initial-scale=1.0">
+	<meta name="description" content="">
+	<meta name="author"      content="Jiang caiyang ( qtdream.com )">
+	
+	<title>关于 - Qt Dream</title>
+
+	<link rel="shortcut icon" href="{publicDir}/assets/images/gt_favicon.png">
+	
+	<link rel="stylesheet" media="screen" href="http://font.useso.com/css?family=Open+Sans:300,400,700">
+	<link rel="stylesheet" href="{publicDir}/assets/css/bootstrap.min.css">
+	<link rel="stylesheet" href="{publicDir}/assets/css/font-awesome.min.css">
+
+	<!-- Custom styles for our template -->
+	<link rel="stylesheet" href="{publicDir}/assets/css/bootstrap-theme.css" media="screen" >
+	<link rel="stylesheet" href="{publicDir}/assets/css/main.css">
+
+	<!-- HTML5 shim and Respond.js IE8 support of HTML5 elements and media queries -->
+	<!--[if lt IE 9]>
+	<script src="{publicDir}/assets/js/html5shiv.js"></script>
+	<script src="{publicDir}/assets/js/respond.min.js"></script>
+	<![endif]-->
+</head>
+
+<body>
+	<!-- IMPORT include/navbar.tpl -->
+
+	<header id="head" class="secondary"></header>
+
+	<!-- container -->
+	<div class="container">
+
+		<ol class="breadcrumb">
+			<li><a href="/home/index">首页</a></li>
+			<li class="active">关于</li>
+		</ol>
+
+		<div class="row">
+			
+			<!-- Article main content -->
+			<article class="col-sm-8 maincontent">
+				<header class="page-header">
+					<h1 class="page-title">创始人自述</h1>
+				</header>
+				<p><img src="{publicDir}/assets/images/fall.jpg" alt="" class="img-rounded pull-right" width="300" > 	生于1990年，是一个标准的90后，拥有90后的性格。和许多年轻人一样，在成长过程中都形成了自己的个性，因此在共性之外，我也有自己的个性。</p>
+	<p>		我和很多年轻人一样，我毕业于2013年来到大城市工作，那时我和其他人一样，在为城市创造财富的过程中，也在孤独和不安中成长着。我们过着我们这一群体独有的生活：大多都是独居，每天为了上班而挤公交车和地铁，每天上班和同事们说说笑笑，但回到家里感到我们是如此孤独，睡觉才是我们最幸福的事儿，因为我们往往都陶醉在睡梦中……我们的身体大多处于亚健康的状态，没遇上生病是我们的幸事，但更加令人担忧的是我们病态、矛盾的心，我们批判但不得不接受现实社会，我们憧憬但害怕未来。为什么我来到这个地方？我辛辛苦苦打拼究竟为了什么？我快乐吗？这些拷问着我们这群年轻人的问题，同样地摆在了我的眼前。</p>
+	
+	<p>大城市里面留个人思考的时间很少，甚至容不得你思考，你马上就得奔向新的战场了。想想也是这样的，早上7点15分就出发，顾不上吃早饭，直接买两个包子就往口袋里揣，为的是早点到达地铁站挤上地铁。坐上了地铁还要换乘，前前后后花了一个多小时才到所在的公司。到了公司刷了卡才开始吃自己带的两个包子，又开始投入一天的紧张战斗中了。这一忙就忙到晚上八点半，晚上我们才能够下班回家。拖着疲惫的身体回到家，不想看电视，也不想洗漱，脱下外套直接睡了，只有在梦中才能够找到我们的理想。可惜好景不长，闹钟铃响，天色渐亮，我们又开始了忙碌的一天……</p>
+	
+	<p>忙里偷闲，我们通过聊天软件来联系感情；忙里偷闲，我们通过刷微博微信来窥探别人究竟干什么，忙里偷闲，我们通过游戏来寻找短暂的快感。但这也正说明，我们是孤独的。我们的梦想在大城市的喧嚣下，在大城市的灯红酒绿中，消逝了。</p>
+	
+	<p>刚干完活的我，好不容易写下这些文字，思考一下我接下来的路该怎么走了。首先，我不能放弃。回想起高考前，回想起大学时望着全校的老师同学，我站在演讲台前，回想起我只身一人去陌生的城市参加考试，那些日子我都克服过来了，现在对我来说，只是一场新的挑战。毛主席有豪言壮语：乌蒙磅礴走泥丸，我也应该相信自己，自信地面对任何挑战。其次，我该怎么办？这是一个战术上的问题，现在有很多成功人士的秘诀和方法，但未必所有方法都适合自己，只有自己不断探索，才能找到适合自己的方法。最后不管是什么人，想要成功，必须付出比别人更多的努力，而且需要持之以恒。我必须铭记于心。</p>
+	
+	<p>努力吧，未来是属于我们的；努力吧，不要屈服于挫折；努力吧，自信地面对未来。</p>
+	
+	<p>夜晚已过去，新的一天将要到来。我打开一扇窗，呼吸新鲜的空气，自信地迎接未来。</p>
+				
+			</article>
+			<!-- /Article -->
+			
+			<!-- Sidebar -->
+			<aside class="col-sm-4 sidebar sidebar-right">
+
+				<div class="widget">
+					<h4>我们的作品</h4>
+					<ul class="list-unstyled list-spaces">
+						<li><a href="take-medicine">吃药了</a><br><span class="small text-muted">这是一款小的游戏，玩法类似于玛丽医生，个人觉得是儿时喜欢玩的游戏之一了。</span></li>
+						<li><a href="ten-days-lay-ghost">十日驱鬼记</a><br><span class="small text-muted">Qt独立游戏第II作，完全原创玩法，期待您的赏玩。</span></li>
+						<li><a href="No1Project">一号项目</a><br><span class="small text-muted">一款新型好玩的应用，敬请期待</span></li>
+					</ul>
+				</div>
+			</aside>
+			<!-- /Sidebar -->
+
+		</div>
+	</div>	<!-- /container -->
+	
+	<!-- IMPORT include/footer.tpl -->
+
+	<!-- JavaScript libs are placed at the end of the document so the pages load faster -->
+	<script src="http://cdn.bootcss.com/jquery/1.10.2/jquery.min.js"></script>
+	<script src="http://cdn.bootcss.com/bootstrap/3.0.0/js/bootstrap.min.js"></script>
+	<script src="{publicDir}/assets/js/headroom.min.js"></script>
+	<script src="{publicDir}/assets/js/jQuery.headroom.min.js"></script>
+	<script src="{publicDir}/assets/js/template.js"></script>
+</body>
+</html>

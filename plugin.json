@@ -13,10 +13,7 @@
   ],
   "staticDirs":
   {
-      "assets": "public/assets",
-      "controllers": "public/controllers",
-      "routes": "public/routes",
-      "services": "public/services"
+      "assets": "public/assets"
   },
   "languages": "public/languages",
   "defaultLang": "zh_CN",
