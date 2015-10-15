@@ -35,7 +35,7 @@
 				<h1 class="lead">Qt Dream</h1>
 				<p class="tagline">It's a story of life and dream that we insist.</p>
 				<p><a class="btn btn-default btn-lg" role="button" href="/home/about">关于</a>
-				<a class="btn btn-action btn-lg" role="button" href="take-medicine.html">我们的产品</a></p>
+				<a class="btn btn-action btn-lg" role="button" href="/home/take-medicine">我们的产品</a></p>
 			</div>
 		</div>
 	</header>

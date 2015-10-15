@@ -1,6 +1,6 @@
 {
   "name": "nodebb-plugin-route-cms",
-  "version": "0.0.1",
+  "version": "0.0.3",
   "description": "Note: This repository is dedicated to http://qtdream.com:1111, and is not guaranteed to suit all systems, even if it is successfully installed.",
   "main": "index.js",
   "scripts": {

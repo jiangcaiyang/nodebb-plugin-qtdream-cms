@@ -16,7 +16,7 @@
                 </div>
 
                 <div class="col-md-3 widget">
-                    <h3 class="widget-title">更多链接</h3>
+                    <h3 class="widget-title">友情链接</h3>
                     <div class="widget-body">
                         <p class="follow-me-icons">
                             <a href="http://weibo.com/jcygames"><i class="fa fa-weibo fa-2"></i></a>
@@ -36,7 +36,7 @@
                 <div class="col-md-6 widget">
                     <h3 class="widget-title">声明</h3>
                     <div class="widget-body">
-                        <p>本站作为个人的主页，主要展示自己的作品和文章。文章原创，切勿抄袭。</p>
+                        <p>本站为团队的主页，主要展示团队的作品和相关的文章。文章原创，切勿抄袭。</p>
                     </div>
                 </div>
 
