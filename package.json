@@ -17,5 +17,8 @@
     "type": "git",
     "url": "git+https://github.com/jiangcaiyang/nodebb-plugin-route-cms"
   },
+  "devDependencies": {
+    "msgpack5": "~3.2.0"
+  },
   "readme": "README.md"
 }

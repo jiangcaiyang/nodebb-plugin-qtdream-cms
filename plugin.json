@@ -23,6 +23,10 @@
       {
           "hook": "static:app.load",
           "method": "onLoad"
+      },
+      {
+          "hook": "filter:users.addFields",
+          "method": "onAddFields"
       }
   ]
 }
