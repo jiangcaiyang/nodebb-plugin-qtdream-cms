@@ -62,7 +62,7 @@
                 <div class="col-md-6 widget">
                     <div class="widget-body">
                         <p class="text-right">
-                            Copyright &copy; 2014, jiangcaiyang. Designed by <a href="http://gettemplate.com/" rel="designer">gettemplate</a>
+                            Copyright &copy; 2015, qtdream . <a target="_blank" href="http://www.miibeian.gov.cn/">沪ICP备15046598号</a> Designed by <a href="http://gettemplate.com/" rel="designer">gettemplate</a>
                         </p>
                     </div>
                 </div>

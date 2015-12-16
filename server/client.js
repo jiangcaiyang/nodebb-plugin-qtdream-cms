@@ -89,6 +89,19 @@ function hackResponseMiddleware( req, res, next )
 	next( );
 }
 
+function hackLogoutResponseMiddleware( req, res, next )
+{
+	res.originalSend = res.send;
+	res.send = function ( body )
+	{
+		res.originalSend( "您已经退出了。" );
+	}
+
+	console.log( "您已经设置了hack。" );
+
+	next( );
+}
+
 router.use( "/client/register",
 	unpackMiddleware,
 	hackResponseMiddleware,
@@ -97,6 +110,10 @@ router.use( "/client/login",
 	unpackMiddleware,
 	hackResponseMiddleware,
 	controllers.authentication.login );
+router.use( "/client/logout",
+	unpackMiddleware,
+	hackLogoutResponseMiddleware,
+	controllers.authentication.logout );
 
 router.post( "/client/:method", methodHandlerDispatcher );
 
