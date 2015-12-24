@@ -27,7 +27,7 @@
                     <div>
                         <p><a href="http://www.qtcn.org/bbs/i.php">QTCN论坛</a></p>
                         <p><a href="http://www.heilqt.com">多多指教论坛</a></p>
-                        <p><a href="http://blog.csdn.net/gamesdev">技术博客</a></p>
+                        <p><a href="http://blog.csdn.net/gamesdev">CSDN技术博客</a></p>
                     </div>
                 </div>
 
