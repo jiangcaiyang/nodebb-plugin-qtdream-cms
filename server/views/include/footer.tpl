@@ -27,16 +27,14 @@
                     <div>
                         <p><a href="http://www.qtcn.org/bbs/i.php">QTCN论坛</a></p>
                         <p><a href="http://www.heilqt.com">多多指教论坛</a></p>
-                        <p><a href="http://www.dushibaiyu.com">渡世白玉</a></p>
-                        <p><a href="http://blog.csdn.net/foruok">foruok博客</a></p>
-                        <p><a href="http://blog.csdn.net/gamesdev">彩阳的技术博客</a></p>
+                        <p><a href="http://blog.csdn.net/gamesdev">技术博客</a></p>
                     </div>
                 </div>
 
                 <div class="col-md-6 widget">
                     <h3 class="widget-title">声明</h3>
                     <div class="widget-body">
-                        <p>本站为团队的主页，主要展示团队的作品和相关的文章。文章原创，切勿抄袭。</p>
+                        <p>本站为公司的主页，主要展示公司的作品和相关的文章。文章原创，切勿抄袭。</p>
                     </div>
                 </div>
 
