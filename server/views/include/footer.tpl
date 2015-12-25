@@ -19,7 +19,7 @@
                     <h3 class="widget-title">友情链接</h3>
                     <div class="widget-body">
                         <p class="follow-me-icons">
-                            <a href="http://weibo.com/jcygames"><i class="fa fa-weibo fa-2"></i></a>
+                            <a href="http://weibo.com/qtdream"><i class="fa fa-weibo fa-2"></i></a>
                             <a href="https://github.com/jiangcaiyang"><i class="fa fa-github fa-2"></i></a>
                         </p>
                     </div>
